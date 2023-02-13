@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chisla 2468/1.0.0": {
+        "runtime": {
+          "Chisla 2468.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chisla 2468/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
